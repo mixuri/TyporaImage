@@ -1,1 +1,2 @@
 # TyporaImage
+本Repository用于存储Typora笔记中上传的图片
